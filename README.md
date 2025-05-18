@@ -90,7 +90,7 @@ Failed notifications (due to external API issues) are retried automatically usin
 Author
 
 Adarsh Kumar Rath
-Backend Developer | Cloud & API Enthusiast
+Backend Developer 
 Email: rath.adarsh2004@gmail.com
 
 
