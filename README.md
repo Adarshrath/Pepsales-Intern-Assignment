@@ -1,4 +1,4 @@
-# 🚀 Notification Hub v3 - Made by Akr
+# 🚀 Notification Hub  - Made by Adarsh
 
 # Notification Service — Made by Adarsh Kumar Rath
 
@@ -98,3 +98,7 @@ Email: rath.adarsh2004@gmail.com
 
 - API: http://localhost:8000/docs
 - RabbitMQ: http://localhost:15672 (guest / guest)
+
+
+
+Service running can be verified at : https://pepsales-intern-assignment-production.up.railway.app/
